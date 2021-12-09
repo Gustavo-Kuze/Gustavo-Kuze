@@ -4,7 +4,7 @@ by [Jonathan Azevedo](https://www.linkedin.com/in/jonathan-azevedo-32078320a/)
 
 ____
 
-<a href="https://gustavokuze.com/"><img width="64" src="https://gustavokuze.com/img/logo_preto_vermelho_transparent.png" /></a>
+<a href="https://gustavokuze.com.br/"><img width="64" src="https://gustavokuze.com.br/img/logo_preto_vermelho_transparent.png" /></a>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-kuze/) 
 
@@ -21,8 +21,8 @@ ____
 
 Well, that's all there is for this README, cause I'm probably too busy right now deploying some modern, beatifully written, React Native app on either one or both these platforms
 
-[![Linkedin Badge](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://gustavokuze.com) 
+[![Linkedin Badge](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://gustavokuze.com.br) 
 
-[![Linkedin Badge](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://gustavokuze.com) 
+[![Linkedin Badge](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://gustavokuze.com.br) 
 
 (or maybe just moving some cards on the board to make our Scrum Master happy)

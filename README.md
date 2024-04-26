@@ -14,7 +14,7 @@ ____
 
 #### About
 
-- I'm a full stack developer, currently working at [Lighthouse](https://lighthouseit.com.br/)
+- I'm a full stack developer, currently working at [NTConsult](https://ntconsult.com.br/)
 - I have a degree in System Analysis and Development
 - I always finish EVERY PROJECT I start
 - // todo...
